@@ -1,6 +1,6 @@
 # Dockerfile for ELK stack
 # Elasticsearch, Logstash, Kibana 6.5.1
-# a fork from https://hub.docker.com/r/sebp/elk/
+# our stack is a fork from https://hub.docker.com/r/sebp/elk/
 #
 # Build with:
 # docker build -t mpsoftdenmark/docker-elk .
