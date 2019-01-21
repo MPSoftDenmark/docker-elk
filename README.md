@@ -1,5 +1,5 @@
 # elkstack in docker
-- is a fork from https://hub.docker.com/r/sebp/elk/
+- our basic-version is a fork from https://hub.docker.com/r/sebp/elk/
 
 # build and bootup:
 - Build with:
