@@ -9,7 +9,7 @@
 # docker run -p 5601:5601 -p 9200:9200 -p 5044:5044 -it --name elk mpsoftdenmark/docker-elk
 
 FROM phusion/baseimage
-MAINTAINER MPSoft Denamrk
+MAINTAINER MPSoft Denmark
 ENV REFRESHED_AT 2019-01-21
 
 
